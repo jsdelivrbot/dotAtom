@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-11735-3063-12vrh2w/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-11735-3063-12vrh2w/package.tgz",
+        "spec": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-11735-3063-12vrh2w/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/apm-install-dir-11735-3063-17whec5"
+    ]
+  ],
+  "_from": "../d-11735-3063-12vrh2w/package.tgz",
+  "_id": "apex-ui@0.2.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/apex-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-11735-3063-12vrh2w/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-11735-3063-12vrh2w/package.tgz",
+    "spec": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-11735-3063-12vrh2w/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11735-3063-12vrh2w/package.tgz",
+  "_shasum": "876d78b2f9f11bc81865cabfe2f7fe148ca0a62a",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-11735-3063-12vrh2w/package.tgz",
+  "_where": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/apm-install-dir-11735-3063-17whec5",
+  "bugs": {
+    "url": "https://github.com/apex/apex-ui/issues"
+  },
+  "dependencies": {},
+  "description": "Apex monochrome theme UI inspired by iA Writer",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/apex/apex-ui#readme",
+  "keywords": [
+    "apex",
+    "monochrome",
+    "ui",
+    "ia",
+    "theme",
+    "writer"
+  ],
+  "license": "MIT",
+  "name": "apex-ui",
+  "optionalDependencies": {},
+  "readme": "![Apex Atom monochrome UI](https://dl.dropboxusercontent.com/u/6396913/Apex/Atom/apex-ui-logo.png)\n\n### Installation\n\n```\n$ apm install apex-ui\n```\n\n### Screenshot\n\nThis variant:\n\n![](https://dl.dropboxusercontent.com/u/6396913/Apex/Atom/apex-atom.jpg)\n\nSlim variant:\n\n![](https://dl.dropboxusercontent.com/u/6396913/Apex/Atom/apex-ui-slime.jpg)\n\n## Links\n\n- [Remove title bar](https://atom.io/packages/no-title-bar)\n- [Apex UI Slim](https://github.com/apex/apex-ui-slim)\n- [Apex Syntax](https://github.com/apex/apex-syntax)\n\n## Badges\n\n[![](http://apex.sh/images/badge.svg)](https://apex.sh/ping/)\n![](https://img.shields.io/badge/license-MIT-blue.svg)\n\n---\n\n> [tjholowaychuk.com](http://tjholowaychuk.com) &nbsp;&middot;&nbsp;\n> GitHub [@tj](https://github.com/tj) &nbsp;&middot;&nbsp;\n> Twitter [@tjholowaychuk](https://twitter.com/tjholowaychuk)\n",
+  "readmeFilename": "Readme.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apex/apex-ui.git"
+  },
+  "theme": "ui",
+  "version": "0.2.1"
+}

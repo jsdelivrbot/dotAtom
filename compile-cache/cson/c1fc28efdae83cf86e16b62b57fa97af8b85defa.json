@@ -1,0 +1,1 @@
+{"context-menu":{"atom-text-editor":[{"label":"Toggle markdown-deluxe","command":"markdown-deluxe:toggle"}]},"menu":[{"label":"Packages","submenu":[{"label":"markdown-deluxe","submenu":[{"label":"Toggle","command":"markdown-deluxe:toggle"}]}]}]}

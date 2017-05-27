@@ -1,0 +1,1 @@
+{"source":"/*\n@cyan:         #35a766;\n@blue:         #5977d3;\n@purple:       #8100c6;\n@green:        #8fad06;\n@red:          #d24d4d;\n@orange:       #cd8e21;\n@light-orange: #e3a92d;\n*/\n.minimap .highlight-selected {\n  background: #212529;\n}\n.minimap .highlight-selected.selected {\n  background: rgba(33, 37, 41, 0.5);\n}\n"}

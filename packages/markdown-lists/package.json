@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-117426-13314-15v9g0f.8tfjzzd7vi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-117426-13314-15v9g0f.8tfjzzd7vi/package.tgz",
+        "spec": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-117426-13314-15v9g0f.8tfjzzd7vi/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/apm-install-dir-117426-13314-fzbis2.eiuqo4unmi"
+    ]
+  ],
+  "_from": "../d-117426-13314-15v9g0f.8tfjzzd7vi/package.tgz",
+  "_id": "markdown-lists@0.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/markdown-lists",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-117426-13314-15v9g0f.8tfjzzd7vi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-117426-13314-15v9g0f.8tfjzzd7vi/package.tgz",
+    "spec": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-117426-13314-15v9g0f.8tfjzzd7vi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117426-13314-15v9g0f.8tfjzzd7vi/package.tgz",
+  "_shasum": "dd91b5d96387aec2386fa4dd02fa1227c4f12e87",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-117426-13314-15v9g0f.8tfjzzd7vi/package.tgz",
+  "_where": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/apm-install-dir-117426-13314-fzbis2.eiuqo4unmi",
+  "activationCommands": {
+    "atom-text-editor": "markdown-lists:insert-new-line"
+  },
+  "bugs": {
+    "url": "https://github.com/brunobord/markdown-lists/issues"
+  },
+  "dependencies": {},
+  "description": "Insert new list items in a Github-flavored Markdown document",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/brunobord/markdown-lists#readme",
+  "license": "MIT",
+  "main": "./lib/markdown-lists",
+  "name": "markdown-lists",
+  "optionalDependencies": {},
+  "readme": "# markdown-lists\n\nThis [Atom Editor](https://atom.io) package helps you add lists in the context of a markdown document. I just wanted this feature that is included in [md-writer](https://github.com/zhuochun/md-writer) but didn't want to load all this package.\n\n![Demo](https://raw.githubusercontent.com/brunobord/markdown-lists/master/markdown-list.gif)\n\n\n----\n\nLicence: [MIT](https://github.com/brunobord/markdown-lists/blob/master/LICENSE.md)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunobord/markdown-lists.git"
+  },
+  "version": "0.0.2",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".coffee": [
+        "lib/markdown-lists-view.coffee",
+        "lib/markdown-lists.coffee"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

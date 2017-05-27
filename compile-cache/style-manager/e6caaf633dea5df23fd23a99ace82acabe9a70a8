@@ -1,0 +1,1 @@
+{"source":".atom-dock-mask:not(:active),\n.atom-dock-content-wrapper.left:not(:active) {\n  transition: width 100ms linear !important;\n}\n"}

@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-117322-71781-igbo3w.gsbgy6tj4i/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-117322-71781-igbo3w.gsbgy6tj4i/package.tgz",
+        "spec": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-117322-71781-igbo3w.gsbgy6tj4i/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/apm-install-dir-117322-71781-1505gyk.ybc8xjq0k9"
+    ]
+  ],
+  "_from": "../d-117322-71781-igbo3w.gsbgy6tj4i/package.tgz",
+  "_id": "atom-open-marked@0.12.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/atom-open-marked",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-117322-71781-igbo3w.gsbgy6tj4i/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-117322-71781-igbo3w.gsbgy6tj4i/package.tgz",
+    "spec": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-117322-71781-igbo3w.gsbgy6tj4i/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117322-71781-igbo3w.gsbgy6tj4i/package.tgz",
+  "_shasum": "dc00c077eb2d40391deffecc32a06b8bca074cd1",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/d-117322-71781-igbo3w.gsbgy6tj4i/package.tgz",
+  "_where": "/private/var/folders/mm/gcm0y8zn2j7g93v4pcwwhqgr0000gn/T/apm-install-dir-117322-71781-1505gyk.ybc8xjq0k9",
+  "activationCommands": {
+    "atom-workspace": "atom-open-marked:OpenMarked"
+  },
+  "bugs": {
+    "url": "https://github.com/o24/atom-open-marked/issues"
+  },
+  "dependencies": {},
+  "description": "markdown preview in Marked2.app (Mac Only)",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/o24/atom-open-marked#readme",
+  "keywords": [
+    "Markdown",
+    "md",
+    "Mac",
+    "Marked",
+    "Marked2"
+  ],
+  "license": "MIT",
+  "main": "./lib/atom-open-marked",
+  "name": "atom-open-marked",
+  "optionalDependencies": {},
+  "readme": "# atom-open-marked package\nMarkdown preview in Marked2.app (Mac Only)\n\n## Required\n[Marked2](https://itunes.apple.com/us/app/marked-2/id890031187?ls=1&mt=12)\n\n## Install\napm or Atom > Settings > install > \"atom-open-marked\"\n\n* apm\n```\napm install atom-open-marked\n```\n\n## Key binding\n* ctrl+shift+cmd+m\n\n## Command\n```\nOpenMarked\n```\n\n## Screenshot\n![A screenshot of your package](http://o24.me/images/github/atom-open-marked/sc.gif)\n\n## License\nMIT license.\nSee the [LICENSE.md](./LICENSE.md)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o24/atom-open-marked.git"
+  },
+  "version": "0.12.0"
+}
